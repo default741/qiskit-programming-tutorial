@@ -5,7 +5,7 @@ This series is designed to help you get started with quantum computing by explor
 
 ---
 
-## 📒 About This First Notebook: Introduction and Setup
+## 📒 About This First Notebook: [Introduction and Setup](https://github.com/default741/qiskit-programming-tutorial/blob/main/00_introduction_and_setup.ipynb)
 
 This first notebook covers the essentials of the **IBM Quantum Platform**, including:
 
