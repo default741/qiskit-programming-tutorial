@@ -35,3 +35,13 @@ Stay tuned and keep exploring the exciting world of quantum computing!
 ## 📄 License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 📚 References and Thanks
+
+A special thanks to the **Robert Loredo**, the author of the book **"Learn Quantum Computing with Python and IBM Quantum"** by Packt Publishing,
+which served as an excellent resource and inspiration for this tutorial series.
+
+If you want to dive deeper into quantum computing with hands-on Python examples, check out the book here:
+[Learn Quantum Computing with Python and IBM Quantum](https://www.packtpub.com/en-us/product/learn-quantum-computing-with-python-and-ibm-quantum-9781803244808)
